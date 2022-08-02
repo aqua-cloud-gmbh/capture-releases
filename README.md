@@ -17,6 +17,10 @@ aqua Test Recorder documents each event and navigation action you perform. Hence
 ###  ABOUT AQUA
 aqua is the Application Lifecycle Management solution that helps tech leaders in regulated industries, software agencies and SaaS companies to organize and manage projects & teams where the main focus is on QA. With aqua it’s possible to do QA of any complexity and scale and go from manual to automated testing smoothly. 
 
+## Download
+Download from [chrome web store](https://chrome.google.com/webstore/detail/aqua-test-recorder/jpcandanmpaeclcpfhadgflmlbhdehjg)
+or from [releases](https://github.com/andagon/aqua-test-recorder-releases/releases)
+
 ## How to use it:
 - Install the extension
 - Open your aqua project
